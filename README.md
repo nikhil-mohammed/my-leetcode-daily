@@ -41,6 +41,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | Day | Problem             | Difficulty | Link                                             |
 |-----|----------------------|------------|--------------------------------------------------|
 | 1   | Contains Duplicate  | Easy       | [Day01_ContainsDuplicate](./Day01_ContainsDuplicate) |
+| 2   | Reverse Linked List  | Easy       | [Day02_ReverseLinkedList](./Day02_ReverseLinkedList) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
