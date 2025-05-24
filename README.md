@@ -43,6 +43,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 1   | Contains Duplicate  | Easy       | [Day01_ContainsDuplicate](./Day01_ContainsDuplicate) |
 | 2   | Reverse Linked List  | Easy       | [Day02_ReverseLinkedList](./Day02_ReverseLinkedList) |
 | 3   | Missing Number  | Easy       | [Day03_MissingNumber](./Day03_MissingNumber) |
+| 4   | Middle of the Linked List  | Easy       | [Day04_MiddleoftheLinkedList](./Day04_MiddleoftheLinkedList) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
@@ -52,7 +53,7 @@ _(This table will be updated as I continue the challenge.)_
 ## 🌱 Let’s Connect!
 
 If you're also doing the challenge, or just into DSA, feel free to connect!  
-🔗 [LinkedIn](www.linkedin.com/in/nikhil-mohammed)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-mohammed)  
 📬 Feel free to share feedback, tips, or suggestions.
 
 ---
