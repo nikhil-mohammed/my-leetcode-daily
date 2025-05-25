@@ -44,6 +44,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 2   | Reverse Linked List  | Easy       | [Day02_ReverseLinkedList](./Day02_ReverseLinkedList) |
 | 3   | Missing Number  | Easy       | [Day03_MissingNumber](./Day03_MissingNumber) |
 | 4   | Middle of the Linked List  | Easy       | [Day04_MiddleoftheLinkedList](./Day04_MiddleoftheLinkedList) |
+| 5   | Add Digits  | Easy       | [Day05_AddDigits](./Day05_AddDigits) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
