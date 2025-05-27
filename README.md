@@ -46,6 +46,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 4   | Middle of the Linked List  | Easy       | [Day04_MiddleoftheLinkedList](./Day04_MiddleoftheLinkedList) |
 | 5   | Add Digits  | Easy       | [Day05_AddDigits](./Day05_AddDigits) |
 | 6   | Merge Two Sorted Lists  | Easy       | [Day06_MergeTwoSortedLists](./Day06_MergeTwoSortedLists) |
+| 7   | Perfect Number  | Easy       | [Day07_PerfectNumber](./Day07_PerfectNumber) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
