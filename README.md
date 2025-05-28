@@ -47,6 +47,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 5   | Add Digits  | Easy       | [Day05_AddDigits](./Day05_AddDigits) |
 | 6   | Merge Two Sorted Lists  | Easy       | [Day06_MergeTwoSortedLists](./Day06_MergeTwoSortedLists) |
 | 7   | Perfect Number  | Easy       | [Day07_PerfectNumber](./Day07_PerfectNumber) |
+| 8   | Linked List Cycle  | Easy       | [Day08_LinkedListCycle](./Day08_LinkedListCycle) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
