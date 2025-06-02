@@ -52,6 +52,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 10   | Palindrome Linked List  | Easy       | [Day10_PalindromeLinkedList](./Day10_PalindromeLinkedList) |
 | 11   | Valid Perfect Square  | Easy       | [Day11_ValidPerfectSquare](./Day11_ValidPerfectSquare) |
 | 12   | Remove Linked List Elements  | Easy       | [Day12_RemoveLinkedListElements](./Day12_RemoveLinkedListElements) |
+| 13   | Happy Number  | Easy       | [Day13_HappyNumber](./Day13_HappyNumber) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
