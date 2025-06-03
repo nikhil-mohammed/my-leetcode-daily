@@ -53,6 +53,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 11   | Valid Perfect Square  | Easy       | [Day11_ValidPerfectSquare](./Day11_ValidPerfectSquare) |
 | 12   | Remove Linked List Elements  | Easy       | [Day12_RemoveLinkedListElements](./Day12_RemoveLinkedListElements) |
 | 13   | Happy Number  | Easy       | [Day13_HappyNumber](./Day13_HappyNumber) |
+| 14   | Rotate List  | Medium       | [Day14_RotateList](./Day14_RotateList) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
