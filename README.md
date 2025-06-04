@@ -54,6 +54,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 12   | Remove Linked List Elements  | Easy       | [Day12_RemoveLinkedListElements](./Day12_RemoveLinkedListElements) |
 | 13   | Happy Number  | Easy       | [Day13_HappyNumber](./Day13_HappyNumber) |
 | 14   | Rotate List  | Medium       | [Day14_RotateList](./Day14_RotateList) |
+| 15   | Plus One  | Easy       | [Day15_PlusOne](./Day15_PlusOne) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
