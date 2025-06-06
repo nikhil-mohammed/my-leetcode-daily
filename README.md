@@ -56,6 +56,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 14   | Rotate List  | Medium       | [Day14_RotateList](./Day14_RotateList) |
 | 15   | Plus One  | Easy       | [Day15_PlusOne](./Day15_PlusOne) |
 | 16   | Odd Even Linked List  | Medium       | [Day16_OddEvenLinkedList](./Day16_OddEvenLinkedList) |
+| 17   | Excel Sheet Column Number  | Easy       | [Day17_ExcelSheetColumnNumber](./Day17_ExcelSheetColumnNumber) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
