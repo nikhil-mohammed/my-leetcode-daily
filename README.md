@@ -58,6 +58,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 16   | Odd Even Linked List  | Medium       | [Day16_OddEvenLinkedList](./Day16_OddEvenLinkedList) |
 | 17   | Excel Sheet Column Number  | Easy       | [Day17_ExcelSheetColumnNumber](./Day17_ExcelSheetColumnNumber) |
 | 18   | Swapping Nodes in a Linked List  | Medium       | [Day18_SwappingNodesInALinkedList](./Day18_SwappingNodesInALinkedList) |
+| 19   | Nth Digit  | Medium       | [Day19_NthDigit](./Day19_NthDigit) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
