@@ -61,6 +61,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 19   | Nth Digit  | Medium       | [Day19_NthDigit](./Day19_NthDigit) |
 | 20   | Delete the Middle Node of a Linked List  | Medium       | [Day20_DeleteTheMiddleNodeOfALinkedList](./Day20_DeleteTheMiddleNodeOfALinkedList) |
 | 21   | Bulb Switcher  | Medium       | [Day21_BulbSwitcher](./Day21_BulbSwitcher) |
+| 22   | Remove Nth Node From End of List  | Medium       | [Day22_RemoveNthNodeFromEndofList](./Day22_RemoveNthNodeFromEndofList) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
