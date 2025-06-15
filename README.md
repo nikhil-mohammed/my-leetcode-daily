@@ -65,6 +65,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 23   | Factorial Trailing Zeroes  | Medium       | [Day23_FactorialTrailingZeroes](./Day23_FactorialTrailingZeroes) |
 | 24   | Insert Greatest Common Divisors In Linked List  | Medium       | [Day24_InsertGreatestCommonDivisorsInLinkedList](./Day24_InsertGreatestCommonDivisorsInLinkedList) |
 | 25   | Count Odd Numbers in an Interval Range  | Easy       | [Day25_CountOddNumbersinanIntervalRange](./Day25_CountOddNumbersinanIntervalRange) |
+| 26   | Remove Duplicates From Sorted List II  | Medium       | [Day26_RemoveDuplicatesFromSortedListII](./Day26_RemoveDuplicatesFromSortedListII) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
