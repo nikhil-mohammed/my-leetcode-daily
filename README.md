@@ -67,6 +67,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 25   | Count Odd Numbers in an Interval Range  | Easy       | [Day25_CountOddNumbersinanIntervalRange](./Day25_CountOddNumbersinanIntervalRange) |
 | 26   | Remove Duplicates From Sorted List II  | Medium       | [Day26_RemoveDuplicatesFromSortedListII](./Day26_RemoveDuplicatesFromSortedListII) |
 | 27   | Sign of the Product of an Array  | Easy       | [Day27_SignoftheProductofanArray](./Day27_SignoftheProductofanArray) |
+| 28   | Partition List  | Medium       | [Day28_PartitionList](./Day28_PartitionList) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
