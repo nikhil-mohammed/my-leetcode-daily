@@ -68,6 +68,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 26   | Remove Duplicates From Sorted List II  | Medium       | [Day26_RemoveDuplicatesFromSortedListII](./Day26_RemoveDuplicatesFromSortedListII) |
 | 27   | Sign of the Product of an Array  | Easy       | [Day27_SignoftheProductofanArray](./Day27_SignoftheProductofanArray) |
 | 28   | Partition List  | Medium       | [Day28_PartitionList](./Day28_PartitionList) |
+| 29   | Reverse Integer  | Medium       | [Day29_ReverseInteger](./Day29_ReverseInteger) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
