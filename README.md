@@ -71,6 +71,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 29   | Reverse Integer  | Medium       | [Day29_ReverseInteger](./Day29_ReverseInteger) |
 | 30 | Add Two Numbers  | Medium       | [Day30_AddTwoNumbers](./Day30_AddTwoNumbers) |
 | 31 | Excel Sheet Column Title  | Easy       | [Day31_ExcelSheetColumnTitle](./Day31_ExcelSheetColumnTitle) |
+| 32 | Delete Node in a Linked List  | Medium       | [Day32_DeleteNodeinaLinkedList](./Day32_DeleteNodeinaLinkedList) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
