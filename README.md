@@ -75,6 +75,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 33 | Sum of Square Numbers  | Medium       | [Day33_SumofSquareNumbers](./Day33_SumofSquareNumbers) |
 | 34 | Min Stack  | Medium       | [Day34_MinStack](./Day34_MinStack) |
 | 35 | Two Sum  | Easy       | [Day35_TwoSum](./Day35_TwoSum) |
+| 36 | Implement Queue Using Stacks  | Easy       | [Day36_ImplementQueueUsingStacks](./Day36_ImplementQueueUsingStacks) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
