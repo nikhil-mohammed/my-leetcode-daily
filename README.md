@@ -78,6 +78,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 36 | Implement Queue Using Stacks  | Easy       | [Day36_ImplementQueueUsingStacks](./Day36_ImplementQueueUsingStacks) |
 | 37 | Valid Parenthesess  | Easy       | [Day37_ValidParentheses](./Day37_ValidParentheses) |
 | 38 | Best Time to Buy and Sell Stock  | Easy       | [Day38_BestTimetoBuyandSellStock](./Day38_BestTimetoBuyandSellStock) |
+| 39 | Evaluate Reverse Polish Notation  | Medium       | [Day39_EvaluateReversePolishNotation](./Day39_EvaluateReversePolishNotation) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
