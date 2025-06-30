@@ -80,6 +80,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 38 | Best Time to Buy and Sell Stock  | Easy       | [Day38_BestTimetoBuyandSellStock](./Day38_BestTimetoBuyandSellStock) |
 | 39 | Evaluate Reverse Polish Notation  | Medium       | [Day39_EvaluateReversePolishNotation](./Day39_EvaluateReversePolishNotation) |
 | 40 | Find Greatest Common Divisor of Array  | Easy       | [Day40_FindGreatestCommonDivisorofArray](./Day40_FindGreatestCommonDivisorofArray) |
+| 41 | Valid Parenthesis String  | Medium       | [Day41_ValidParenthesisString](./Day41_ValidParenthesisString) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
