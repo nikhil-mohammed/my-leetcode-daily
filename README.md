@@ -82,6 +82,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 40 | Find Greatest Common Divisor of Array  | Easy       | [Day40_FindGreatestCommonDivisorofArray](./Day40_FindGreatestCommonDivisorofArray) |
 | 41 | Valid Parenthesis String  | Medium       | [Day41_ValidParenthesisString](./Day41_ValidParenthesisString) |
 | 42 | Pascal's Triangle II  | Easy       | [Day42_PascalsTriangleII](./Day42_PascalsTriangleII) |
+| 43 | Minimum Remove to Make Valid Parentheses  | Medium       | [Day43_MinimumRemovetoMakeValidParentheses](./Day43_MinimumRemovetoMakeValidParentheses) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
