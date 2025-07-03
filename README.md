@@ -83,6 +83,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 41 | Valid Parenthesis String  | Medium       | [Day41_ValidParenthesisString](./Day41_ValidParenthesisString) |
 | 42 | Pascal's Triangle II  | Easy       | [Day42_PascalsTriangleII](./Day42_PascalsTriangleII) |
 | 43 | Minimum Remove to Make Valid Parentheses  | Medium       | [Day43_MinimumRemovetoMakeValidParentheses](./Day43_MinimumRemovetoMakeValidParentheses) |
+| 44 | Majority Element  | Easy       | [Day44_MajorityElement](./Day44_MajorityElement) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
