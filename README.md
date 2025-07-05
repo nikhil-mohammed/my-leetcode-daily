@@ -85,6 +85,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 43 | Minimum Remove to Make Valid Parentheses  | Medium       | [Day43_MinimumRemovetoMakeValidParentheses](./Day43_MinimumRemovetoMakeValidParentheses) |
 | 44 | Majority Element  | Easy       | [Day44_MajorityElement](./Day44_MajorityElement) |
 | 45 | Score of a String  | Easy       | [Day45_ScoreofaString](./Day45_ScoreofaString) |
+| 46 | Concatenation of Array  | Easy       | [Day46_ConcatenationofArray](./Day46_ConcatenationofArray) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
