@@ -86,6 +86,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 44 | Majority Element  | Easy       | [Day44_MajorityElement](./Day44_MajorityElement) |
 | 45 | Score of a String  | Easy       | [Day45_ScoreofaString](./Day45_ScoreofaString) |
 | 46 | Concatenation of Array  | Easy       | [Day46_ConcatenationofArray](./Day46_ConcatenationofArray) |
+| 47 | Valid Anagram  | Easy       | [Day47_ValidAnagram](./Day47_ValidAnagram) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
