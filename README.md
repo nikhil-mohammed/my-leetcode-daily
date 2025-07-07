@@ -87,6 +87,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 45 | Score of a String  | Easy       | [Day45_ScoreofaString](./Day45_ScoreofaString) |
 | 46 | Concatenation of Array  | Easy       | [Day46_ConcatenationofArray](./Day46_ConcatenationofArray) |
 | 47 | Valid Anagram  | Easy       | [Day47_ValidAnagram](./Day47_ValidAnagram) |
+| 48 | Replace Elements with Greatest Element on Right Side  | Easy       | [/Day48_ReplaceElementswithGreatestElementonRightSide](./Day48_ReplaceElementswithGreatestElementonRightSide) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
