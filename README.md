@@ -88,6 +88,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 46 | Concatenation of Array  | Easy       | [Day46_ConcatenationofArray](./Day46_ConcatenationofArray) |
 | 47 | Valid Anagram  | Easy       | [Day47_ValidAnagram](./Day47_ValidAnagram) |
 | 48 | Replace Elements with Greatest Element on Right Side  | Easy       | [Day48_ReplaceElementswithGreatestElementonRightSide](./Day48_ReplaceElementswithGreatestElementonRightSide) |
+| 49 | Is Subsequence  | Easy       | [Day49_IsSubsequence](./Day49_IsSubsequence) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
