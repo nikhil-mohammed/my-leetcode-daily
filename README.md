@@ -89,6 +89,7 @@ This challenge is inspired by the spirit of learning in public, improving one st
 | 47 | Valid Anagram  | Easy       | [Day47_ValidAnagram](./Day47_ValidAnagram) |
 | 48 | Replace Elements with Greatest Element on Right Side  | Easy       | [Day48_ReplaceElementswithGreatestElementonRightSide](./Day48_ReplaceElementswithGreatestElementonRightSide) |
 | 49 | Is Subsequence  | Easy       | [Day49_IsSubsequence](./Day49_IsSubsequence) |
+| 50 | Append Characters to String to Make Subsequence  | Medium       | [Day50_AppendCharacterstoStringtoMakeSubsequence](./Day50_AppendCharacterstoStringtoMakeSubsequence) |
 | ... | ...                  | ...        | ...                                              |
 
 _(This table will be updated as I continue the challenge.)_
